@@ -7,3 +7,6 @@ print einstein[73:]
 print einstein.find('two')
 
 print einstein[15:]
+
+print "Test".find('te')
+print  'west'.find('test')
